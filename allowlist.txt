@@ -1,0 +1,13 @@
+#URL Shorteners
+t.ly
+www.bit.ly
+bit.ly
+ow.ly
+tinurl.com
+
+#EA/Origin
+cdn.optimizely.com
+split.io
+
+#Misc
+s.shopify.com
