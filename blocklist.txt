@@ -15,3 +15,9 @@ metrics.amazon.com
 metrics.amazonaws.com
 telemetry.amazon.com
 telemetry.amazonaws.com
+
+# Google DNS
+8.8.8.8
+8.8.4.4
+dns.google
+dns.google.com
