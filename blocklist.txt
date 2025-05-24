@@ -3,4 +3,11 @@ skydance.xyz
 sdm-sec-rapid7-collector.skydance.xyz
 samsrvrapp002.sda.skydance.xyz
 us2.api.endpoint.ingress.rapid7.com
+
+#Amazon
 metrics.amazon.com
+dp-gw-na-js.amazon.com
+metrics.amazonaws.com
+telemetry.amazon.com
+telemetry.amazonaws.com
+g.amazon.com
