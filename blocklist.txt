@@ -1,13 +1,17 @@
-#Ingress Rapid 7
-skydance.xyz
+#Blocklist last upated: 2025.05.24
+
+# Ingress Rapid7 domains
+*.skydance.xyz
+*.rapid7.com
 sdm-sec-rapid7-collector.skydance.xyz
 samsrvrapp002.sda.skydance.xyz
+skydance.xyz
 us2.api.endpoint.ingress.rapid7.com
 
-#Amazon
-metrics.amazon.com
+# Amazon telemetry domains
 dp-gw-na-js.amazon.com
+g.amazon.com
+metrics.amazon.com
 metrics.amazonaws.com
 telemetry.amazon.com
 telemetry.amazonaws.com
-g.amazon.com
