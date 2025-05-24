@@ -1,13 +1,15 @@
-#URL Shorteners
-t.ly
-www.bit.ly
+# Allowlist last updated: 2025.05.24
+
+# URL Shorteners
 bit.ly
+www.bit.ly
 ow.ly
 tinurl.com
+t.ly
 
-#EA/Origin
+# EA / Origin Domains
 cdn.optimizely.com
 split.io
 
-#Misc
+# Miscellaneous
 s.shopify.com
