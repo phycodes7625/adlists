@@ -9,8 +9,6 @@ skydance.xyz
 us2.api.endpoint.ingress.rapid7.com
 
 # Amazon telemetry domains
-dp-gw-na-js.amazon.com
-g.amazon.com
 metrics.amazon.com
 metrics.amazonaws.com
 telemetry.amazon.com
