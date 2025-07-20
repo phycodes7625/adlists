@@ -8,6 +8,7 @@ samsrvrapp002.sda.skydance.xyz
 skydance.xyz
 us2.api.endpoint.ingress.rapid7.com
 rapid7insight.home
+us2.endpoint.ingress.rapid7.com
 
 # Amazon telemetry domains
 metrics.amazon.com
