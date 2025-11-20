@@ -1,8 +1,6 @@
-#Blocklist last upated: 2025.05.24
+# Blocklist last updated: 2025.11.19
 
-# Ingress Rapid7 domains
-*.skydance.xyz
-*.rapid7.com
+# --- Ingress Rapid7 Domains ---
 sdm-sec-rapid7-collector.skydance.xyz
 samsrvrapp002.sda.skydance.xyz
 skydance.xyz
@@ -10,14 +8,28 @@ us2.api.endpoint.ingress.rapid7.com
 rapid7insight.home
 us2.endpoint.ingress.rapid7.com
 
-# Amazon telemetry domains
+# --- Amazon Telemetry Domains ---
 metrics.amazon.com
 metrics.amazonaws.com
 telemetry.amazon.com
 telemetry.amazonaws.com
 
-# Google DNS
+# --- Google DNS Domains ---
 8.8.8.8
 8.8.4.4
 dns.google
 dns.google.com
+
+# --- Peacock Blacklist ---
+mt.ssai.peacocktv.com
+
+# --- Paramount+ Blacklist ---
+imasdk.googleapis.com
+enduser.adsrvr.org
+cdn.privacy.paramount.com
+www.googletagmanager.com
+pagead2.googlesyndication.com
+availability-fastly.syncbak-mediastore-cedexis.cbsaavideo.com
+cbsi.demdex.net
+vod-gcs-qwilt.cbsaavideo.com
+vod-gcs-google.cbsaavideo.com
