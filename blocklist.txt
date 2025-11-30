@@ -5,8 +5,8 @@ sdm-sec-rapid7-collector.skydance.xyz
 samsrvrapp002.sda.skydance.xyz
 samsrvrapp004.sda.skydance.xyz
 skydance.xyz
-||skydance.xyz
-||rapid7.com
+||skydance.xyz^
+||rapid7.com^
 us2.api.endpoint.ingress.rapid7.com
 rapid7insight.home
 rapid7collector.home
