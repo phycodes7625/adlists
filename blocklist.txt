@@ -3,9 +3,12 @@
 # --- Ingress Rapid7 Domains ---
 sdm-sec-rapid7-collector.skydance.xyz
 samsrvrapp002.sda.skydance.xyz
+samsrvrapp004.sda.skydance.xyz
 skydance.xyz
 us2.api.endpoint.ingress.rapid7.com
 rapid7insight.home
+rapid7collector.home
+r7collector.home
 us2.endpoint.ingress.rapid7.com
 
 # --- Amazon Telemetry Domains ---
